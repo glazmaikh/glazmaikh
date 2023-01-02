@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+flowchart TB
+	node
+
 ```mermaid
 graph LR
 A[Test] --> B[UI]
