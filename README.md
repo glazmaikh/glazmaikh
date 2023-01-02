@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-flowchart TB
-	node
-
-```mermaid
-graph LR
-A[Test] --> B[UI]
-A --> D[Mobile]
-A --> E[API]
-```
-
 <!--
 **glazmaikh/glazmaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
