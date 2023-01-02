@@ -2,7 +2,7 @@
 
 ```mermaid
 graph LR
-A[![image](https://static.thenounproject.com/png/554896-200.png)] --> B[UI]
+A[(https://static.thenounproject.com/png/554896-200.png)] --> B[UI]
 A --> D[Mobile]
 A --> E[API]
 ```
