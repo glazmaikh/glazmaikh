@@ -1,7 +1,7 @@
 ### Добро пожаловать и привет!
 
 Меня зовут Орловский Сергей. Я практикую автотестирование на Selenide + Java + Gradle
-Имею 8 лет опыта [ручного тестировщика:](https://hh.ru/resume/aa097941ff081202d00039ed1f55656c344377)
+Имею 8 лет опыта [ручного тестировщика](https://hh.ru/resume/aa097941ff081202d00039ed1f55656c344377)
 
 <!--
 **glazmaikh/glazmaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
