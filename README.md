@@ -3,6 +3,19 @@
 Практикую автотестирование на 
 <b>Selenide + Java + Gradle</b> </br>
 [@glazmaikh](https://t.me/glazmaikh) </br>
+
+<details>
+<summary>BSD</summary>
+To install zoxide, use a package manager:
+| Distribution  | Repository      | Instructions                    |
+| ------------- | --------------- | ------------------------------- |
+| ***Any***     | **[crates.io]** | `cargo install zoxide --locked` |
+| DragonFly BSD | [DPorts]        | `pkg install zoxide`            |
+| FreeBSD       | [FreshPorts]    | `pkg install zoxide`            |
+| NetBSD        | [pkgsrc]        | `pkgin install zoxide`          |
+</details>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glazmaikh)](https://github.com/glazmaikh/github-readme-stats) </br>
 Имею 8 лет опыта [ручного тестировщика](https://hh.ru/resume/aa097941ff081202d00039ed1f55656c344377)
 
