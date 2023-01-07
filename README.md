@@ -1,4 +1,3 @@
-<p align="center">
 ### Добро пожаловать и привет!
 Меня зовут Орловский Сергей </br>
 Практикую автотестирование на 
@@ -13,7 +12,7 @@
 <a href="https://aerokube.com/selenoid/"><img src="/icons/Selenoid.png" width="50" height="50"  alt="Selenoid"/></a>
 <a href="https://github.com/allure-framework/allure2"><img src="/icons/Allure_Report.png" width="50" height="50"  alt="Allure"/></a>
 <a href="https://www.jenkins.io/"><img src="/icons/Jenkins.png" width="50" height="50"  alt="Jenkins"/></a>
-</p>
+
 
 <a href="https://t.me/glazmaikh"><img src="/icons/Telegram.png" width="50" height="50"  alt="Telegram"/></a>
 [@glazmaikh](https://t.me/glazmaikh) </br>
